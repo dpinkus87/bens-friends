@@ -35,10 +35,10 @@ To use the app/website, follow our public link below and browse the categories a
 ## Link
 
 Repo: 
-https://github.com/EricKim86/bens-friends.git
+https://github.com/dpinkus87/bens-friends.git
 
 Website:
-https://secure-oasis-69885.herokuapp.com/
+https://bens-friends.herokuapp.com/
 
 ## License
 
